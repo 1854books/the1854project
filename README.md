@@ -96,15 +96,15 @@ translation of the Word in Modern English in quotes.
 ### *jīva*
 
 > जीव, *jīva*: “The individual or personal soul enshrined in the human
-> body and imparting to it life, motion and sensation (Apte 515);”
+> body and imparting to it life, motion and sensation (Apte 515);"
 
 ### *īśvara*
 
-> ईश्वर, *īśvara*: “Powerful, able, capable of (with inf.) (Apte 284);”
+> ईश्वर, *īśvara*: “Powerful, able, capable of (with inf.) (Apte 284);"
 
 ### *maya*
 
-> माया, *maya*: “Deceit, fraud, trick, trickery; a device, an artifice (Apte 861);”
+> माया, *maya*: “Deceit, fraud, trick, trickery; a device, an artifice (Apte 861);"
 
 ### *brahman*
 
@@ -113,11 +113,11 @@ translation of the Word in Modern English in quotes.
 > Brahman is both the efficient and the material cause of the visible
 > universe, the all-pervading soul and spirit of the universe, the
 > essence from which all created things are produced and into which they
-> are absorbed (Apte 801);”
+> are absorbed (Apte 801);"
 
 ### *paraṃ brahma*
 
-> परं ब्रह्म, *paraṃ brahma*: "The sacred and mystic syllable *om* (Apte 801);”
+> परं ब्रह्म, *paraṃ brahma*: "The sacred and mystic syllable *om* (Apte 801);"
 
 ## Dedication 
 
