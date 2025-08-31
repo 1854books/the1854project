@@ -40,12 +40,11 @@ A Note About This Book <br>
 Epigraph <br>
 Preface <br>
 
-1.	*ārya* 
-2.	*jīva*
-3.	*īśvara*
-4.	*maya*
-5.	*brahman*
-6.	*paraṃ brahma*
+1.	*jīva*
+2.	*īśvara*
+3.	*maya*
+4.	*brahman*
+5.	*paraṃ brahma*
 
 Dedication <br>
 Acknowledgement <br>
@@ -93,10 +92,6 @@ translation of the Word in Modern English in quotes.
 > When the will of the Supreme Lord viz. Māyā disappears (or when he wills to be alone), existent as he is as a cause, he 
 > is not perceived separately as a seer or anything to be seen, (though) he was comprehended by various conjectures 
 > (while the gross creation existed) (_Bhāgavata Purāṇa_ 3.5.23)
-
-### *ārya* 
-
-> आर्य, *ārya*: “Worthy, venerable, respectable, honourable, noble, high (Apte 256);”
 
 ### *jīva*
 
