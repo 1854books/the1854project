@@ -1,6 +1,6 @@
 ![img](The1854Project.jpg)
 
-## इति ह आस [^1]
+## conscientização [^1]
 
 The 1854 Project
 
@@ -115,6 +115,9 @@ Apte, Vaman Shivram. *Apte Practical Sanskrit-English Dictionary.* Shiralkar, 18
 *The Upanishads and Sri Sankara's Commentary: Isa, Kena & Mundaka*. 
 Translated by S. Sitarama Sastri, V.C. Seshacharri, 1905.
 
+Douglas J. Ficek, "Man is a Yes": Fanon, Liberation and the Playful Politics of Philosophical Archaeology, 
+doctoral dissertation submitted to the Faculty of Temple University, August 2013.
+
 Swami Nikhilānand. *Self-Knowledge: An English Translation of
 Sankaracharya Atmabodha with Notes, Comments, and Introduction.* Sri
 Ramakrishna Math, 1947.
@@ -137,7 +140,14 @@ House Publishing Group, 2021.
 2. Greenough, George Bellas. *General sketch of the physical and
    geological features of British India*, 1855.
 
-[^1]: इतिहास \[fr. इति-ह-आस (3rd. pers. sing. Perf. of अस् to be); so it has been] (Apte 382).
+[^1]: With respect to this term, it is quite possible that Freire was 
+   inspired by Fanon, who coined the term conscienciser (or “to bring to 
+   consciousness”) in Peau noir, masques blancs (Paris: Éditions du Seuil, 
+   1952), p. 80: “Ce qui apparaît alors, c'est la nécessité d'une action 
+   couplée sur l'individu et sur le groupe. En tant que psychanalyste, 
+   je dois aider mon client à conscienciser son inconscient, à ne plus 
+   tenter une lactification hallucinatoire, mais bien à agir dans kle sens 
+   d'un changement des structures sociales. (Ficek 46)”
 
 [^2]: તન-મન-ધન a. n. \[See તન + મન + ધન\] Lit. The body, the mind, and
     one’s wealth. Hence, 2. All that one loves; the highest object of
