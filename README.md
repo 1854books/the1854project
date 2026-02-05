@@ -1,6 +1,6 @@
 ![img](The1854Project.jpg)
 
-## A Table Alphabeticall[^1]
+## इतिहास पुराण [^1]
 
 The 1854 Project
 
@@ -40,11 +40,16 @@ A Note About This Book <br>
 Epigraph <br>
 Preface <br>
 
-1.	*jīva*
-2.	*īśvara*
-3.	*maya*
-4.	*brahman*
-5.	*paraṃ brahma*
+1.	Capitalism and Indology
+2.	Utilitarianism and Empire
+3.	Coloniality of Knowledge
+4.	Eighteen Fifty Seven
+5.	Colonialism and Caste
+6.	Divide and Rule
+7.	Communalism and Politics
+8.	India and The Making of The Modern World
+9.	Global Wealth Gap
+10.	Eurocentrism and Public Education
 
 Dedication <br>
 Acknowledgement <br>
@@ -54,20 +59,18 @@ Credits <br>
    
 ## README
 
-Each chapter begins with a Word in the source script, a
-transliteration of the Word in ISO Latin 1 in italics, and a
-translation of the Word in Modern English in quotes.
+The chapters of this book occur on a time-line that 
+runs chronologically from the eariliest developments of 
+the Aryan myth to the present. While the chapters are 
+not strictly chronological, they have been arranged with 
+a historial narratrive in mind.  
 
 ## A Note About This Book
 
-> तस्मै स विद्वानुपसन्नाय सम्यक्प्रशान्तचित्ताय शमान्विताय ।  <br>
-> येनाक्षरं पुरुषं वेद सत्यं प्रोवाच तां तत्त्वतो ब्रह्मविद्याम् ॥ 
->
-> *tasmai sa vidvānupasannāya samyakpraśāntacittāya śamānvitāya* । <br>
-> *yenākṣaraṃ puruṣaṃ veda satyaṃ provāca tāṃ tattvato brahmavidyām* ॥
-> 
-> To him who has thus approached, whose heart is well subdued and who has control over his senses,
-> let him truly teach that Brahmavidya by which the true immortal purusha is known (_Muṇḍaka Upaniṣad_ 1.2.13)
+This book occasionally uses words whose meanings have 
+changed over time, and in some cases remain actively debated.
+In almost every case, the editors have tried to trace traditional 
+meanings—and highlight the ways Indology has shaped discourse. 
 
 ## Epigraph 
 
@@ -82,42 +85,16 @@ translation of the Word in Modern English in quotes.
 
 ## Preface 	
 
-> स वा एष तदा द्रष्टा नापश्यद् द‍ृश्यमेकराट् ।  <br>
-> मेनेऽसन्तमिवात्मानं सुप्तशक्तिरसुप्तद‍ृक् ॥ 
->
-> *sa vā eṣa tadā draṣṭā nāpaśyad dṛśyam ekarāṭ* ।  <br>
-> *mene ’santam ivātmānaṁ supta-śaktir asupta-dṛk* ॥ 
-> 
-> The Lord, the supreme soul of all the souls (jīvas) and their master, was all alone before (the creation of) this (universe). 
-> When the will of the Supreme Lord viz. Māyā disappears (or when he wills to be alone), existent as he is as a cause, he 
-> is not perceived separately as a seer or anything to be seen, (though) he was comprehended by various conjectures 
-> (while the gross creation existed) (_Bhāgavata Purāṇa_ 3.5.23)
-
-### *jīva*
-
-> जीव, *jīva*: “The individual or personal soul enshrined in the human
-> body and imparting to it life, motion and sensation (Apte 515);"
-
-### *īśvara*
-
-> ईश्वर, *īśvara*: “Powerful, able, capable of (with inf.) (Apte 284);"
-
-### *maya*
-
-> माया, *maya*: “Deceit, fraud, trick, trickery; a device, an artifice (Apte 861);"
-
-### *brahman*
-
-> ब्रह्मन्, *brahman*: "The Supreme Being, regarded as impersonal and
-> divested of all quality and action; (according to the Vedāntins,
-> Brahman is both the efficient and the material cause of the visible
-> universe, the all-pervading soul and spirit of the universe, the
-> essence from which all created things are produced and into which they
-> are absorbed (Apte 801);"
-
-### *paraṃ brahma*
-
-> परं ब्रह्म, *paraṃ brahma*: "The sacred and mystic syllable *om* (Apte 801);"
+### Capitalism and Indology
+### Utilitarianism and Empire
+### Coloniality of Knowledge
+### Eighteen Fifty Seven
+### Colonialism and Caste
+### Divide and Rule
+### Communalism and Politics
+### India and The Making of The Modern World
+### Global Wealth Gap
+### Eurocentrism and Public Education
 
 ## Dedication 
 
@@ -132,15 +109,6 @@ Indians—Past, Present and Future
 **Sri Purushottam Nagesh Oak** is the Founder and President of the *Institute for ReWriting World History*. 
 
 ## Notes 
-
-Cawdry, Robert. *A Table Alphabeticall, Contayning and Teaching the True
-Writing and Vnderstanding of Hard Vsuall English Words, Borrowed from
-the Hebrew, Greeke, Latine, or French &C. With the Interpretation
-Thereof by Plaine English Words, Gathered for the Benefit and Help of
-All Vnskilfull Persons. Whereby They May the More Easily and Better
-Vnderstand Many Hard English Words, Which They Shall Heare or Read in
-Scriptures, Sermons, or Elsewhere, and Also Be Made Able to Vse the Same
-Aptly Themselues.* W. I. for Edmund Weauer, 1604.
 
 Apte, Vaman Shivram. *Apte Practical Sanskrit-English Dictionary.* Shiralkar, 1890.
 
@@ -169,9 +137,8 @@ House Publishing Group, 2021.
 2. Greenough, George Bellas. *General sketch of the physical and
    geological features of British India*, 1855.
 
-[^1]: A Table Alphabeticall, Contayning and Teaching the True Writing and 
-    Vnderstanding of Hard Vsuall English Words, Borrowed from the Hebrew, 
-    Greeke, Latine, or French &C. (Cawdry A4).
+[^1]: इतिहास पुराण \[(3rd. pers. sing. Perf. of अस् to be); so it has been;]
+...-पुराणम् history and legendary stories;  (Apte 382).
 
 [^2]: તન-મન-ધન a. n. \[See તન + મન + ધન\] Lit. The body, the mind, and
     one’s wealth. Hence, 2. All that one loves; the highest object of
