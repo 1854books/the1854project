@@ -147,7 +147,7 @@ House Publishing Group, 2021.
    couplée sur l'individu et sur le groupe. En tant que psychanalyste, 
    je dois aider mon client à conscienciser son inconscient, à ne plus 
    tenter une lactification hallucinatoire, mais bien à agir dans kle sens 
-   d'un changement des structures sociales. (Ficek 46)”
+   d'un changement des structures sociales (Ficek 46).”
 
 [^2]: તન-મન-ધન a. n. \[See તન + મન + ધન\] Lit. The body, the mind, and
     one’s wealth. Hence, 2. All that one loves; the highest object of
