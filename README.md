@@ -24,7 +24,7 @@ system, stored in a database and / or published in any form or by any
 means, electronic, mechanical, photocopying, recording or otherwise,
 without the prior written permission of the publisher.
 
-Published in  કલા નગરી, *kalā nagarī*: "city of art" by મન, *man*: "mind"[^2]
+Published in  કલા નગરી, *kalā nagarī*: "city of art"[^2] by મન, *man*: "mind"[^3]
 
 Cataloging in Publication Data
 
@@ -81,7 +81,7 @@ meanings—and highlight the ways Indology has shaped discourse.
 > *vidyavidyam nihantyeva tejastimirasamghavat* ॥
 >
 > Action cannot destroy ignorance, as it is not opposed to ignorance <br>
-> Knowledge does verily destroy ignorance just as light destroys deep darkness (_Ātmabodha_ 3)[^3]
+> Knowledge does verily destroy ignorance just as light destroys deep darkness (_Ātmabodha_ 3)[^4]
 
 ## Preface 	
 
@@ -102,7 +102,7 @@ Indians—Past, Present and Future
 
 ## Acknowledgement
 
-*The 1619 Project*[^4]
+*The 1619 Project*[^5]
 
 ## Notes 
 
@@ -117,9 +117,6 @@ doctoral dissertation submitted to the Faculty of Temple University, August 2013
 Swami Nikhilānand. *Self-Knowledge: An English Translation of
 Sankaracharya Atmabodha with Notes, Comments, and Introduction.* Sri
 Ramakrishna Math, 1947.
-
-*The Bhagavata Purana Part 1*. Edited by J. L. Shastri, Translated by G. V. Tagare, 
-vol. 7, 1950, Ancient Indian Tradition and Mythology.
 
 Belsare, Malhar Bhikaji. *ગુજરાતી-અંગ્રેજી ડિકશનરી \[Etymological
 Gujarati-English Dictionary\].* 2nd Edition, Asian Educational Services,
@@ -146,11 +143,13 @@ House Publishing Group, 2021.
    tenter une lactification hallucinatoire, mais bien à agir dans kle sens 
    d'un changement des structures sociales (Ficek 46).”
 
-[^2]: તન-મન-ધન a. n. \[See તન + મન + ધન\] Lit. The body, the mind, and
+[^2]: કલા, Classical form of કળા An art (Belsare 227) + નગર a city (Belsare 301).
+    
+[^3]: તન-મન-ધન a. n. \[See તન + મન + ધન\] Lit. The body, the mind, and
     one’s wealth. Hence, 2. All that one loves; the highest object of
     one’s ambition (Belsare 577).
 
-[^3]: Action—Which is associated with the consciousness of doer,
+[^4]: Action—Which is associated with the consciousness of doer,
     instrument, and result.
 
     Knowledge—Of Non-duality.
@@ -164,7 +163,7 @@ House Publishing Group, 2021.
     experience of happiness in heaven belongs to the realm of ignorance
     (Swami Nikhilānand 157).
 
-[^4]: I was maybe fifteen or sixteen when I first came across the 
+[^5]: I was maybe fifteen or sixteen when I first came across the 
     date 1619. Whenever I think about that moment, my mind conjures 
     an image of glowing three-dimensional numbers rising from the page. 
     Of course, in reality, they were printed in plain black text on 
