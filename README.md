@@ -104,10 +104,6 @@ Indians—Past, Present and Future
 
 *The 1619 Project*[^4]
 
-## Contributors 
-
-**Sri Purushottam Nagesh Oak** is the Founder and President of the *Institute for ReWriting World History*. 
-
 ## Notes 
 
 Apte, Vaman Shivram. *Apte Practical Sanskrit-English Dictionary.* Shiralkar, 1890.
@@ -131,6 +127,10 @@ Gujarati-English Dictionary\].* 2nd Edition, Asian Educational Services,
 
 Hannah-Jones, Nikole. *The 1619 Project: A New Origin Story.* Random
 House Publishing Group, 2021.
+
+## Contributors 
+
+**Sri Purushottam Nagesh Oak** is the Founder and President of the *Institute for ReWriting World History*. 
 
 ## Credits 
 
