@@ -1,6 +1,6 @@
 ![img](The1854Project.jpg)
 
-## इतिहास पुराण [^1]
+## इति ह आस [^1]
 
 The 1854 Project
 
@@ -137,8 +137,7 @@ House Publishing Group, 2021.
 2. Greenough, George Bellas. *General sketch of the physical and
    geological features of British India*, 1855.
 
-[^1]: इतिहास पुराण \[(3rd. pers. sing. Perf. of अस् to be); so it has been;]
-...-पुराणम् history and legendary stories;  (Apte 382).
+[^1]: इतिहास \[fr. इति-ह-आस (3rd. pers. sing. Perf. of अस् to be); so it has been] (Apte 382).
 
 [^2]: તન-મન-ધન a. n. \[See તન + મન + ધન\] Lit. The body, the mind, and
     one’s wealth. Hence, 2. All that one loves; the highest object of
