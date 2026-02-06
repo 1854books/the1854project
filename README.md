@@ -108,9 +108,6 @@ Indians—Past, Present and Future
 
 Apte, Vaman Shivram. *Apte Practical Sanskrit-English Dictionary.* Shiralkar, 1890.
 
-*The Upanishads and Sri Sankara's Commentary: Isa, Kena & Mundaka*. 
-Translated by S. Sitarama Sastri, V.C. Seshacharri, 1905.
-
 Douglas J. Ficek, "Man is a Yes": Fanon, Liberation and the Playful Politics of Philosophical Archaeology, 
 doctoral dissertation submitted to the Faculty of Temple University, August 2013.
 
