@@ -80,9 +80,8 @@ meanings—and highlight the ways Indology has shaped discourse.
 > uttisthata jagrata prapya varannibodhata <br>
 > kshurasanna dhara nishita durataya durgama pathah tat kavayo vadanti
 >
-> Arise, awake; having reached the great, learn;
-> the edge of a razor is sharp and impassable;
-> that path, the intelligent say, is hard to go by (Katha Upanishad 1.3.14).[^4]
+> Arise, awake; having reached the great, learn; <br>
+> the edge of a razor is sharp and impassable; that path, the intelligent say, is hard to go by (Katha Upanishad 1.3.14).[^4]
 
 ## Preface 	
 
@@ -121,7 +120,6 @@ House Publishing Group, 2021.
 
 Kaṭha and Praśna Upaniṣads. Translated by S. Sitarama Sastri, with commentary attributed to Śaṅkara, 
 vol. 2 of The Upanishads and Sri Sankara’s Commentary, V.C. Seshacharri, 1923
-
 
 ## Contributors 
 
