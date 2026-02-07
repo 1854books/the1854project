@@ -102,8 +102,6 @@ Indians—Past, Present and Future
 
 ## Acknowledgement
 
-*The 1619 Project*[^4]
-
 ## Notes 
 
 Apte, Vaman Shivram. *Apte Practical Sanskrit-English Dictionary.* Shiralkar, 1890.
@@ -128,7 +126,8 @@ The Upanishads: Volume One: Katha, Īśa, Kena, and Mundaka. Translated by Swami
 
 1. Greenough, George Bellas. *General sketch of the physical and
    geological features of British India*, 1855.
-
+2. *The 1619 Project*[^4]
+ 
 [^1]: With respect to this term, it is quite possible that Freire was 
    inspired by Fanon, who coined the term conscienciser (or “to bring to 
    consciousness”) in Peau noir, masques blancs (Paris: Éditions du Seuil, 
