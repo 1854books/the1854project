@@ -74,14 +74,15 @@ meanings—and highlight the ways Indology has shaped discourse.
 
 ## Epigraph 
 
-> अविरोधितया कर्म नाविद्यां विनिवर्तयेत् । <br>
-> विद्याविद्या निहन्त्येव तेजस्तिमिरसङ्ववत् ॥ 
+> उत्तिष्ठत जाग्रत प्राप्य वरान्निबोधत,<br>
+> क्षुरासन्न धारा निशिता दुरत्यद्दुर्गम पथ: तत् कवयो वदन्ति |
 >
-> *avirodhitayã karma nävidyam vinivartayet* । <br> 
-> *vidyavidyam nihantyeva tejastimirasamghavat* ॥
+> uttisthata jagrata prapya varannibodhata <br>
+> kshurasanna dhara nishita durataya durgama pathah tat kavayo vadanti
 >
-> Action cannot destroy ignorance, as it is not opposed to ignorance <br>
-> Knowledge does verily destroy ignorance just as light destroys deep darkness (_Ātmabodha_ 3)[^4]
+> Arise, awake; having reached the great, learn;
+> the edge of a razor is sharp and impassable;
+> that path, the intelligent say, is hard to go by (Katha Upanishad 1.3.14).[^4]
 
 ## Preface 	
 
@@ -108,19 +109,19 @@ Indians—Past, Present and Future
 
 Apte, Vaman Shivram. *Apte Practical Sanskrit-English Dictionary.* Shiralkar, 1890.
 
-Douglas J. Ficek, "Man is a Yes": Fanon, Liberation and the Playful Politics of Philosophical Archaeology, 
-doctoral dissertation submitted to the Faculty of Temple University, August 2013.
-
-Swami Nikhilānand. *Self-Knowledge: An English Translation of
-Sankaracharya Atmabodha with Notes, Comments, and Introduction.* Sri
-Ramakrishna Math, 1947.
-
 Belsare, Malhar Bhikaji. *ગુજરાતી-અંગ્રેજી ડિકશનરી \[Etymological
 Gujarati-English Dictionary\].* 2nd Edition, Asian Educational Services,
 2002.
 
+Douglas J. Ficek, "Man is a Yes": Fanon, Liberation and the Playful Politics of Philosophical Archaeology, 
+doctoral dissertation submitted to the Faculty of Temple University, August 2013.
+
 Hannah-Jones, Nikole. *The 1619 Project: A New Origin Story.* Random
 House Publishing Group, 2021.
+
+Kaṭha and Praśna Upaniṣads. Translated by S. Sitarama Sastri, with commentary attributed to Śaṅkara, 
+vol. 2 of The Upanishads and Sri Sankara’s Commentary, V.C. Seshacharri, 1923
+
 
 ## Contributors 
 
@@ -146,19 +147,10 @@ House Publishing Group, 2021.
     one’s wealth. Hence, 2. All that one loves; the highest object of
     one’s ambition (Belsare 577).
 
-[^4]: Action—Which is associated with the consciousness of doer,
-    instrument, and result.
-
-    Knowledge—Of Non-duality.
-
-    Ignorance—Which conjures up the multiplicity of the relative world.
-    (See note on verse 5, p. 160). Ignorance must not be confused with
-    illiteracy or absence of book-knowledge. Vedanta declares that the
-    Knowledge of the non-duality of Brahman and Ātman is the only true
-    Knowledge; all else is ignorance. Any trace of duality belongs to
-    the state of ignorance. As such, the vision of a god or the
-    experience of happiness in heaven belongs to the realm of ignorance
-    (Swami Nikhilānand 157).
+[^4]: Therefore to know that, arise, Oh, living beings sleeping in beginningless 
+   ignorance, i.e., turn towards the acquisition of the knowledge of the atman ; 
+   and awake, i.e., put an end to the sleep of ignorance, horrible in form and 
+   the seed of all misery (Sastri 55).
 
 [^5]: I was maybe fifteen or sixteen when I first came across the 
     date 1619. Whenever I think about that moment, my mind conjures 
