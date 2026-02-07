@@ -81,7 +81,7 @@ meanings—and highlight the ways Indology has shaped discourse.
 > kshurasanna dhara nishita durataya durgama pathah tat kavayo vadanti
 >
 > Arise! Awake! Approach the great and learn. <br>
-> Like the sharp edge of a razor is that path, so the wise say—hard to tread and difficult to cross.(Katha Upanishad 1.3.14).
+> Like the sharp edge of a razor is that path, so the wise say—hard to tread and difficult to cross (Katha Upanishad 1.3.14).
 
 ## Preface 	
 
