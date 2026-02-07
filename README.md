@@ -80,8 +80,8 @@ meanings—and highlight the ways Indology has shaped discourse.
 > uttisthata jagrata prapya varannibodhata <br>
 > kshurasanna dhara nishita durataya durgama pathah tat kavayo vadanti
 >
-> Arise, awake; having reached the great, learn; <br>
-> the edge of a razor is sharp and impassable; that path, the intelligent say, is hard to go by (Katha Upanishad 1.3.14).[^4]
+> Arise! Awake! Approach the great and learn. <br>
+> Like the sharp edge of a razor is that path, so the wise say—hard to tread and difficult to cross.(Katha Upanishad 1.3.14).
 
 ## Preface 	
 
@@ -102,7 +102,7 @@ Indians—Past, Present and Future
 
 ## Acknowledgement
 
-*The 1619 Project*[^5]
+*The 1619 Project*[^4]
 
 ## Notes 
 
@@ -118,8 +118,7 @@ doctoral dissertation submitted to the Faculty of Temple University, August 2013
 Hannah-Jones, Nikole. *The 1619 Project: A New Origin Story.* Random
 House Publishing Group, 2021.
 
-Kaṭha and Praśna Upaniṣads. Translated by S. Sitarama Sastri, with commentary attributed to Śaṅkara, 
-vol. 2 of The Upanishads and Sri Sankara’s Commentary, V.C. Seshacharri, 1923
+The Upanishads: Volume One: Katha, Īśa, Kena, and Mundaka. Translated by Swami Nikhilananda, Harper & Brothers, 1949.
 
 ## Contributors 
 
@@ -145,12 +144,7 @@ vol. 2 of The Upanishads and Sri Sankara’s Commentary, V.C. Seshacharri, 1923
     one’s wealth. Hence, 2. All that one loves; the highest object of
     one’s ambition (Belsare 577).
 
-[^4]: Therefore to know that, arise, Oh, living beings sleeping in beginningless 
-   ignorance, i.e., turn towards the acquisition of the knowledge of the atman ; 
-   and awake, i.e., put an end to the sleep of ignorance, horrible in form and 
-   the seed of all misery (Sastri 55).
-
-[^5]: I was maybe fifteen or sixteen when I first came across the 
+[^4]: I was maybe fifteen or sixteen when I first came across the 
     date 1619. Whenever I think about that moment, my mind conjures 
     an image of glowing three-dimensional numbers rising from the page. 
     Of course, in reality, they were printed in plain black text on 
