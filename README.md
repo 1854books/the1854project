@@ -113,9 +113,6 @@ Gujarati-English Dictionary\].* 2nd Edition, Asian Educational Services,
 Douglas J. Ficek, "Man is a Yes": Fanon, Liberation and the Playful Politics of Philosophical Archaeology, 
 doctoral dissertation submitted to the Faculty of Temple University, August 2013.
 
-Hannah-Jones, Nikole. *The 1619 Project: A New Origin Story.* Random
-House Publishing Group, 2021.
-
 The Upanishads: Volume One: Katha, Īśa, Kena, and Mundaka. Translated by Swami Nikhilananda, Harper & Brothers, 1949.
 
 ## Contributors 
@@ -126,7 +123,8 @@ The Upanishads: Volume One: Katha, Īśa, Kena, and Mundaka. Translated by Swami
 
 1. Greenough, George Bellas. *General sketch of the physical and
    geological features of British India*, 1855.
-2. *The 1619 Project*[^4]
+2. Hannah-Jones, Nikole. *The 1619 Project: A New Origin Story.* Random
+   House Publishing Group, 2021.
  
 [^1]: With respect to this term, it is quite possible that Freire was 
    inspired by Fanon, who coined the term conscienciser (or “to bring to 
@@ -142,12 +140,3 @@ The Upanishads: Volume One: Katha, Īśa, Kena, and Mundaka. Translated by Swami
 [^3]: તન-મન-ધન a. n. \[See તન + મન + ધન\] Lit. The body, the mind, and
     one’s wealth. Hence, 2. All that one loves; the highest object of
     one’s ambition (Belsare 577).
-
-[^4]: I was maybe fifteen or sixteen when I first came across the 
-    date 1619. Whenever I think about that moment, my mind conjures 
-    an image of glowing three-dimensional numbers rising from the page. 
-    Of course, in reality, they were printed in plain black text on 
-    the cheap page of a paperback. Still, while the numbers did not 
-    literally glow, I remember sitting back in my chair and staring 
-    at the date, a bit confused, thrown off-kilter by an exhilarating 
-    revelation starting to sink in (Hannah-Jones xvii).
