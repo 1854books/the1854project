@@ -102,6 +102,8 @@ Indians—Past, Present and Future
 
 ## Acknowledgement
 
+This book grew out of the original version of the 1619 Project, published in *The New York Times Magazine* in August 2019, and from long-running efforts to reframe India’s history by placing the consequences of colonialism and the contributions of Indians at the very center of India’s many narratives.
+
 ## Notes 
 
 Apte, Vaman Shivram. *Apte Practical Sanskrit-English Dictionary.* Shiralkar, 1890.
