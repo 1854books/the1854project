@@ -1,0 +1,144 @@
+![img](The1854Project.jpg)
+
+## conscientização[^1]
+
+The 1854 Project
+
+a new retrospective<br>
+by<br>
+Kalpit Parikh<br>
+
+ॐ असतो मा सद्गमय ।<br>
+तमसो मा ज्योतिर्गमय ।<br>
+मृत्योर्माऽमृतं गमय ॥<br>
+ॐ शान्तिः शान्तिः शान्तिः ॥ <br>
+
+## Impressum
+
+Published in  કલા નગરી, *kalā nagarī*: "city of art"[^2] by મન, *man*: "mind"[^3]
+
+Cataloging in Publication Data
+
+Name: Kalpit Parikh, 2023— author<br>
+Title: The 1854 Project/ Kalpit Parikh<br>
+ASIN:<br>
+Subjects: 1. Sociology 2. Epistemology
+
+## Contents
+
+Author’s Note <br>
+A Note About This Book <br>
+Epigraph <br>
+Preface <br>
+
+1. Capitalism and Indology
+2. Utilitarianism and Empire
+3. Indian Indenture System
+4. Coloniality of Knowledge
+5. Eighteen Fifty Seven
+6. Colonialism and Caste
+7. Indian Independence Movement
+8. Divide and Rule
+9. Communalism and Politics
+11. India and The Making of The Modern World
+12. Constitution of India
+13. Global Wealth Gap
+15. Eurocentrism and Public Education
+16. India and Politics of History
+    
+Dedication <br>
+Acknowledgement <br>
+Contributors <br>
+Notes <br>
+Credits <br>
+   
+## README
+
+The chapters of this book occur on a time-line that 
+runs chronologically from the eariliest developments of 
+the Aryan myth to the present. While the chapters are 
+not strictly chronological, they have been arranged with 
+a historial narratrive in mind.  
+
+## A Note About This Book
+
+This book occasionally uses words whose meanings have 
+changed over time, and in some cases remain actively debated.
+In almost every case, the editors have tried to trace traditional 
+meanings—and highlight the ways Indology has shaped discourse. 
+
+## Epigraph 
+
+> उत्तिष्ठत जाग्रत प्राप्य वरान्निबोधत,<br>
+> क्षुरासन्न धारा निशिता दुरत्यद्दुर्गम पथ: तत् कवयो वदन्ति |
+>
+> uttisthata jagrata prapya varannibodhata <br>
+> kshurasanna dhara nishita durataya durgama pathah tat kavayo vadanti
+>
+> Arise! Awake! Approach the great and learn. <br>
+> Like the sharp edge of a razor is that path, so the wise say—hard to tread and difficult to cross (Katha Upanishad 1.3.14).
+
+## Preface 	
+
+### Capitalism and Indology
+### Utilitarianism and Empire
+### Indian Indenture System
+### Coloniality of Knowledge
+### Eighteen Fifty Seven
+### Colonialism and Caste
+### Indian Independence Movement
+### Divide and Rule
+### Communalism and Politics
+### India and The Making of The Modern World
+### Constitution of India
+### Global Wealth Gap
+### History of Colonialism
+### Eurocentrism and Public Education
+### India and Politics of History
+
+## Dedication 
+
+Indians—Past, Present and Future
+
+## Acknowledgement
+
+This book grew out of the original version of the 1619 Project, published in *The New York Times Magazine* in August 2019, and from long-running efforts to reframe India’s history by placing the consequences of colonialism and the contributions of Indians at the very center of India’s many narratives.
+
+## Notes 
+
+Apte, Vaman Shivram. *Apte Practical Sanskrit-English Dictionary.* Shiralkar, 1890.
+
+Belsare, Malhar Bhikaji. *ગુજરાતી-અંગ્રેજી ડિકશનરી \[Etymological
+Gujarati-English Dictionary\].* 2nd Edition, Asian Educational Services,
+2002.
+
+Douglas J. Ficek, "Man is a Yes": Fanon, Liberation and the Playful Politics of Philosophical Archaeology, 
+doctoral dissertation submitted to the Faculty of Temple University, August 2013.
+
+The Upanishads: Volume One: Katha, Īśa, Kena, and Mundaka. Translated by Swami Nikhilananda, Harper & Brothers, 1949.
+
+## Contributors 
+
+**Kalpit Parikh** is an independent researcher in New Jersey specializing in modern history of India. 
+
+## Credits 
+
+1. Greenough, George Bellas. *General sketch of the physical and
+   geological features of British India*, 1855.
+2. Hannah-Jones, Nikole. *The 1619 Project: A New Origin Story.* Random
+   House Publishing Group, 2021.
+ 
+[^1]: With respect to this term, it is quite possible that Freire was 
+   inspired by Fanon, who coined the term conscienciser (or “to bring to 
+   consciousness”) in Peau noir, masques blancs (Paris: Éditions du Seuil, 
+   1952), p. 80: “Ce qui apparaît alors, c'est la nécessité d'une action 
+   couplée sur l'individu et sur le groupe. En tant que psychanalyste, 
+   je dois aider mon client à conscienciser son inconscient, à ne plus 
+   tenter une lactification hallucinatoire, mais bien à agir dans kle sens 
+   d'un changement des structures sociales (Ficek 46).”
+
+[^2]: કલા, Classical form of કળા An art (Belsare 227) + નગર a city (Belsare 301).
+    
+[^3]: તન-મન-ધન a. n. \[See તન + મન + ધન\] Lit. The body, the mind, and
+    one’s wealth. Hence, 2. All that one loves; the highest object of
+    one’s ambition (Belsare 577).
