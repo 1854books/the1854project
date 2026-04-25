@@ -56,7 +56,7 @@ Credits <br>
 
 The chapters of this book occur on a time-line that 
 runs chronologically from the eariliest developments of 
-the Aryan myth to the present. While the chapters are 
+Indology to the present. While the chapters are 
 not strictly chronological, they have been arranged with 
 a historial narratrive in mind.  
 
@@ -123,7 +123,7 @@ doctoral dissertation submitted to the Faculty of Temple University, August 2013
 
 ## Contributors 
 
-**Kalpit Parikh** is an independent researcher in New Jersey specializing in history of Colonial Indology.[^4]
+**Kalpit Parikh** is an independent researcher in New Jersey specializing in history of Indology.[^4]
 
 ## Credits 
 
