@@ -1,6 +1,6 @@
 ![img](The1854Project.jpg)
 
-## conscientização[^1]
+## ভারতবর্ষ[^1]
 
 The 1854 Project
 
@@ -56,7 +56,7 @@ Credits <br>
 
 The chapters of this book occur on a time-line that 
 runs chronologically from the eariliest developments of 
-Indology to the present. While the chapters are 
+Colonial Indology to the present. While the chapters are 
 not strictly chronological, they have been arranged with 
 a historial narratrive in mind.  
 
@@ -116,6 +116,8 @@ Belsare, Malhar Bhikaji. *ગુજરાતી-અંગ્રેજી ડિ�
 Gujarati-English Dictionary\].* 2nd Edition, Asian Educational Services,
 2002.
 
+Biswas, Sailendra. Samsad Bengali-English dictionary. 3rd ed. Calcutta, Sahitya Samsad, 2000.
+
 Chakrabarti, Dilip K. *Colonial Indology: Sociopolitics of the Ancient Indian Past*. Munshiram Manoharlal Publishers Pvt. Limited, 1997.
 
 Douglas J. Ficek, "Man is a Yes": Fanon, Liberation and the Playful Politics of Philosophical Archaeology, 
@@ -123,7 +125,7 @@ doctoral dissertation submitted to the Faculty of Temple University, August 2013
 
 ## Contributors 
 
-**Kalpit Parikh** is an independent researcher in New Jersey specializing in history of Indology.[^4]
+**Kalpit Parikh** is an independent researcher in New Jersey specializing in history of Colonial Indology.[^4]
 
 ## Credits 
 
@@ -132,14 +134,16 @@ doctoral dissertation submitted to the Faculty of Temple University, August 2013
 2. Hannah-Jones, Nikole. *The 1619 Project: A New Origin Story.* Random
    House Publishing Group, 2021.
  
-[^1]:  With respect to this term, it is quite possible that Freire was 
-   inspired by Fanon, who coined the term conscienciser (or “to bring to 
-   consciousness”) in Peau noir, masques blancs (Paris: Éditions du Seuil, 
-   1952), p. 80: “Ce qui apparaît alors, c'est la nécessité d'une action 
-   couplée sur l'individu et sur le groupe. En tant que psychanalyste, 
-   je dois aider mon client à conscienciser son inconscient, à ne plus 
-   tenter une lactification hallucinatoire, mais bien à agir dans kle sens 
-   d'un changement des structures sociales (Ficek 46).”
+[^1]:  ভারত bhārata n. India (formerly including Pakistan), the Republic of India, 
+    the Indian Union; a son or descendant of King Bharata (ভরত); the Mahabharata. ~নাট্যম n. 
+    Bharat Natyam, an Indian classical dance form. ~বর্ষ same as ভারত excepting the last two 
+    meanings. ~বর্ষীয় a. of or dwelling in India, Indian. ~বাসী a. living in India, Indian. n. 
+    an Indian. ~মহাসাগর n. the Indian Ocean. ~মাতা n. India personified as the common mother 
+    of all Indians; Mother India. ~রত্ন n. a jewel of India; the title of highest honour 
+    conferred upon eminent citizens by the President of India. ~রাষ্ট্র n. the Republic of India, 
+    the Indian Union. ~সন্তান n. a child of the Indian soil, an Indian. ~সভা n. Indian 
+    Association. ~সরকার n. the Government of India, the Indian Government. 
+    ভারতের সংবিধান the Constitution of India (Biswas 814).
 
 [^2]: કલા, Classical form of કળા An art (Belsare 227) + નગર a city (Belsare 301).
     
