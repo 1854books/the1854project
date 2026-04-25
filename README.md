@@ -151,7 +151,7 @@ Chakrabarti, Dilip K. *Colonial Indology: Sociopolitics of the Ancient Indian 
 [^4]: This book explores some underlying theoretical premises of the Western study of ancient India. 
     These premises developed in response to the colonial need to manipulate the Indians' perception 
     of their past. The need was felt most strongly from the middle of the nineteenth century onwards, 
-    and an elaborate racist frame-work, in which the interrelationship between race, language and 
+    and an elaborate racist framework, in which the interrelationship between race, language and 
     culture was a key element, slowly emerged as an explanation of the ancient Indian historical 
     universe. The measure of its success is obvious from the fact that the Indian nationalist historians 
     left this framework unchallenged, preferring to dispute it only in some comparatively minor matters 
