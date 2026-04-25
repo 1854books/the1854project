@@ -119,7 +119,7 @@ The Upanishads: Volume One: Katha, Īśa, Kena, and Mundaka. Translated by Swami
 
 ## Contributors 
 
-**Kalpit Parikh** is an independent researcher in New Jersey specializing in modern history of India. 
+**Kalpit Parikh** is an independent researcher in New Jersey specializing in history of Indology. 
 
 ## Credits 
 
