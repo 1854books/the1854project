@@ -65,7 +65,7 @@ a historial narratrive in mind.
 This book occasionally uses words whose meanings have 
 changed over time, and in some cases remain actively debated.
 In almost every case, the editors have tried to trace traditional 
-meanings—and highlight the ways Indology has shaped discourse. 
+meanings—and highlight the ways Colonial Indology has shaped discourse. 
 
 ## Epigraph 
 
