@@ -61,8 +61,8 @@ not strictly chronological, they have been arranged with a historial narratrive 
 ## A Note About This Book
 
 This book occasionally uses words whose meanings have changed over time, and 
-in some cases remain actively debated. In almost every case, the editors have 
-tried to trace traditional meanings and highlight the ways Colonial Indology has shaped discourse. 
+in some cases remain actively debated. In almost every case, the book tries to 
+trace traditional meanings and highlight the ways Colonial Indology has shaped discourse. 
 
 ## Epigraph 
 
