@@ -121,7 +121,7 @@ Munshiram Manoharlal Publishers Pvt. Limited, 1997.
 
 ## Contributors 
 
-**Kalpit Parikh** is an independent researcher in New Jersey specializing in history of 
+**Kalpit Parikh** is an independent researcher in New Jersey whose work focuses on history of 
 Colonial Indology.[^4]
 
 ## Credits 
