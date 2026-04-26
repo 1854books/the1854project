@@ -119,9 +119,6 @@ Biswas, Sailendra. Samsad Bengali-English dictionary. 3rd ed. Calcutta, Sahitya 
 Chakrabarti, Dilip K. *Colonial Indology: Sociopolitics of the Ancient Indian Past*. 
 Munshiram Manoharlal Publishers Pvt. Limited, 1997.
 
-Douglas J. Ficek, "Man is a Yes": Fanon, Liberation and the Playful Politics of Philosophical Archaeology, 
-doctoral dissertation submitted to the Faculty of Temple University, August 2013.
-
 ## Contributors 
 
 **Kalpit Parikh** is an independent researcher in New Jersey specializing in history of 
