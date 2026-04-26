@@ -54,18 +54,15 @@ Credits <br>
    
 ## README
 
-The chapters of this book occur on a time-line that 
-runs chronologically from the eariliest developments of 
-Colonial Indology to the present. While the chapters are 
-not strictly chronological, they have been arranged with 
-a historial narratrive in mind.  
+The chapters of this book occur on a time-line that runs chronologically from 
+the eariliest developments of Colonial Indology to the present. While the chapters are 
+not strictly chronological, they have been arranged with a historial narratrive in mind.  
 
 ## A Note About This Book
 
-This book occasionally uses words whose meanings have 
-changed over time, and in some cases remain actively debated.
-In almost every case, the editors have tried to trace traditional 
-meanings—and highlight the ways Colonial Indology has shaped discourse. 
+This book occasionally uses words whose meanings have changed over time, and 
+in some cases remain actively debated. In almost every case, the editors have 
+tried to trace traditional meanings and highlight the ways Colonial Indology has shaped discourse. 
 
 ## Epigraph 
 
@@ -76,7 +73,8 @@ meanings—and highlight the ways Colonial Indology has shaped discourse.
 > kshurasanna dhara nishita durataya durgama pathah tat kavayo vadanti
 >
 > Arise! Awake! Approach the great and learn. <br>
-> Like the sharp edge of a razor is that path, so the wise say—hard to tread and difficult to cross (Katha Upanishad 1.3.14).
+> Like the sharp edge of a razor is that path, so the wise say—hard to tread and difficult
+> to cross (Katha Upanishad 1.3.14).
 
 ## Preface 	
 
@@ -118,14 +116,16 @@ Gujarati-English Dictionary\].* 2nd Edition, Asian Educational Services,
 
 Biswas, Sailendra. Samsad Bengali-English dictionary. 3rd ed. Calcutta, Sahitya Samsad, 2000.
 
-Chakrabarti, Dilip K. *Colonial Indology: Sociopolitics of the Ancient Indian Past*. Munshiram Manoharlal Publishers Pvt. Limited, 1997.
+Chakrabarti, Dilip K. *Colonial Indology: Sociopolitics of the Ancient Indian Past*. 
+Munshiram Manoharlal Publishers Pvt. Limited, 1997.
 
 Douglas J. Ficek, "Man is a Yes": Fanon, Liberation and the Playful Politics of Philosophical Archaeology, 
 doctoral dissertation submitted to the Faculty of Temple University, August 2013.
 
 ## Contributors 
 
-**Kalpit Parikh** is an independent researcher in New Jersey specializing in history of Colonial Indology.[^4]
+**Kalpit Parikh** is an independent researcher in New Jersey specializing in history of 
+Colonial Indology.[^4]
 
 ## Credits 
 
